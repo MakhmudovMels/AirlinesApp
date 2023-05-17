@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AirlinesApp</string>
+    <string name="editAirline">edit airline</string>
+    <string name="deleteAirline">delete airline</string>
+    <string name="openAirline">open airline</string>
+    <string name="commit">подтверждение</string>
+    <string name="cancel">отмена</string>
+</resources>
